@@ -1,0 +1,6 @@
+.env
+.note
+environment.yml
+
+__pycache__/
+*.py[cod]
