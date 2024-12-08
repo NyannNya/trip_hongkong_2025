@@ -136,7 +136,8 @@ itinerary = {
                 "➖ 鯉魚門三家村\n\n" +
                 "➖ 鯉魚門南大門\n\n" +
                 "➖ 鯉魚門燈塔\n\n",
-            "file": "day2_afternoon",
+            "file": "day2_afternoon"
+        },
         "night": {
             "attraction": "銅鑼灣",
             "start_time": "19:00",
@@ -149,8 +150,7 @@ itinerary = {
                 "➖ 維多利亞女皇銅像\n\n" +
                 "➖ 時代廣場\n\n" +
                 "➖ 希慎廣場URBANHOOD\n\n",
-            "file": "day3_morning",
-            }
+            "file": "day3_morning"
         }
     },
     "2025-01-18": {
